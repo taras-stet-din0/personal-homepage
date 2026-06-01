@@ -23,7 +23,7 @@ A responsive personal homepage built with HTML, CSS, and JavaScript to present i
 2. Open index.html in your browser
 
 ## What I learned
-This project helped me practice building responsive layouts, organizing page structure, styling components with CSS, and improving overall frontend development skills.
+This project helped me practice building responsive layouts, organizing page structure, styling components with CSS, and improving overall frontend development skills. Practiced building responsive page layouts, structuring semantic HTML, working with CSS Flexbox/Grid, and improving UI organization for portfolio-style websites.
 
 ## Status
 Finished
